@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "test.throw-exception-if-no-handler-found",
+      "type": "java.lang.Boolean",
+      "description": "Allows to turn off throwing NoHandlerFoundException.",
+      "defaultValue": true
+  }
+] }
